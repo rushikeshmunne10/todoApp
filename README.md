@@ -1,8 +1,33 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple yet powerful web app to keep your tasks organized and within reach.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Domain](#domain)
+
+## Description
+
+TodoApp is a user-friendly application designed to streamline task management. Whether you're tracking daily chores, work projects, or personal goals, TodoApp offers a clean and intuitive interface to keep you on top of your to-do list. The app provides essential CRUD (Create, Read, Update, Delete) operations to manage your tasks effectively.
+
+## Features
+
+- Add new tasks
+- View tasks
+- Edit existing tasks
+- Delete tasks
+
+## Technologies Used
+
+- React JS
+- Tailwind CSS
+- JavaScript
+- HTML5
+
+## Domain
+
+https://rushikeshmunne10.github.io/todoApp/
+
